@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="online_resume" width="22px" src="https://b-husein.github.io/online-resume/" />][website]
+[<img align="left" alt="" width="22px" src="https://b-husein.github.io/online-resume/" />][website]
 [<img align="left" alt="HB Coding Tutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="pragmaticxyz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
