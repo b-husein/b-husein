@@ -51,7 +51,7 @@
 
 ---
 
-[![Husein's github stats](https://github-readme-stats.vercel.app/api?username=b-husein)](https://github.com/anuraghazra/github-readme-stats)
+[![Husein's github stats](https://github-readme-stats.vercel.app/api?username=b-husein&hide=contribs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
