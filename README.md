@@ -55,6 +55,8 @@
 
 ---
 
+[![Most used languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=b-husein)](https://github.com/b-husein/github-readme-stats)
+
 [website]: https://b-husein.github.io/online-resume/
 [youtube]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/pragmaticxyz/
