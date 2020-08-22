@@ -1,6 +1,6 @@
-### Hi there, I'm Husein 👋
+### Hi there, my name is Husein. 👋
 
-## I'm a Web Developer, aspiring to become Full Stack Web Developer!
+## I'm a Web Developer;
 
 - 🔭 I’m currently working on my [portfolio!][website]
 - 🌱 I’m currently learning React and experimenting with ExpressJS;
@@ -51,26 +51,13 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
-
-</details>
+[![Husein's github stats](https://github-readme-stats.vercel.app/api?username=b-husein)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Husein's github stats](https://github-readme-stats.vercel.app/api?username=b-husein)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://b-husein.github.io/online-resume/
-[youtube]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw?view_as=subscriber
+[youtube]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/pragmaticxyz/
-[webdevplaylist]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw?view_as=subscriber
+[webdevplaylist]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
 [jsplaylist]: https://www.youtube.com/watch?v=xd6M1hMryiA&list=PL_RU_7f8ZS8NAvpkEHfSsP6PPlbR8Gd2e
 [cssplaylist]: https://www.youtube.com/watch?v=ZFDZDyeGmgI&list=PL_RU_7f8ZS8MZ8TIVDwWOFKLQU9wKjedu
