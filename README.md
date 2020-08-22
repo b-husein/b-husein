@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, aspiring to become Full Stack Web Developer!
 
-- 🔭 I’m currently working on my [portfolio!][website]!
+- 🔭 I’m currently working on my [portfolio!][website]
 - 🌱 I’m currently learning React and experimenting with ExpressJS;
 - 👯 I’m looking to collaborate with other content creators!
 - 🥅 2020 Goals: Contribute more to Open Source projects;
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://b-husein.github.io/online-resume/" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="HB Coding Tutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="pragmaticxyz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -23,7 +23,6 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
@@ -52,8 +51,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -67,12 +64,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+---
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[![Husein's github stats](https://github-readme-stats.vercel.app/api?username=b-husein)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://b-husein.github.io/online-resume/
 [youtube]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw?view_as=subscriber
