@@ -3,8 +3,8 @@
 ## I'm a Web Developer;
 
 - 🔭 I’m currently working on my [portfolio!][website]
-- 🌱 I’m currently learning React and experimenting with ExpressJS;
-- 👯 I’m looking to collaborate with other content creators!
+- 🌱 (...) learning React and experimenting with ExpressJS;
+- 👯 (...) and looking to collaborate with other content creators!
 - 🥅 2020 Goals: Contribute more to Open Source projects;
 - ⚡ Fun fact: The root is at the top of the tree. 🤣
 
