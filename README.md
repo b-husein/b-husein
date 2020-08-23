@@ -55,7 +55,7 @@
 
 ---
 
-[website]: https://b-husein.github.io/online-resume/
+[website]: https://b-husein.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/pragmaticxyz/
 [webdevplaylist]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
