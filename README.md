@@ -1,6 +1,6 @@
 ### Hi there, my name is Husein. 👋
 
-## I'm a Web Developer;
+## I'm a Full Stack Web Developer;
 
 - 🔭 I’m currently working on my [portfolio!][website]
 - 🌱 (...) and improving my JavaScript coding skills;
