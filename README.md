@@ -51,6 +51,16 @@
 
 ---
 
+### 📕 At the moment, I'm reading ...
+
+<!-- BOOK-LIST:START -->
+
+- [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/)
+
+<!-- BOOK-LIST:END -->
+
+---
+
 [![Husein's github stats](https://github-readme-stats.vercel.app/api?username=b-husein&hide=contribs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
