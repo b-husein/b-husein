@@ -55,7 +55,7 @@
 
 <!-- BOOK-LIST:START -->
 
-- [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/)
+- [Marijin Haverbeke, "ELOQUENT JAVASCRIPT - A Modern Introduction to Programming", 3rd edition](https://eloquentjavascript.net/)
 
 <!-- BOOK-LIST:END -->
 
