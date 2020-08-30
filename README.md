@@ -49,10 +49,6 @@
 
 ---
 
-[![Husein's github stats](https://github-readme-stats.vercel.app/api?username=b-husein&hide=contribs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 [website]: https://b-husein.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/pragmaticxyz/
