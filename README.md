@@ -1,20 +1,8 @@
-### Hi there, my name is Husein. 👋
+## Hi there, my name is Husein. 👋
 
-## I'm a Full Stack Web Developer;
+### I'm a Full Stack Web Developer;
 
-- 🔭 I’m currently working on my [portfolio!][website]
-- 🌱 (...) and improving my JavaScript coding skills;
-- 👯 (...) and looking to collaborate with other content creators!
-- 🥅 2020 Goals: Contribute more to Open Source projects;
-- ⚡ Fun fact: The root is at the top of the tree. 🤣
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="HB Coding Tutorials | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="pragmaticxyz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+---
 
 ### Tech Stack && Tools:
 
