@@ -1,7 +1,5 @@
 ## Hi there, my name is Husein. 👋
 
-### I'm a Full Stack Web Developer;
-
 ---
 
 ### Tech Stack && Tools:
