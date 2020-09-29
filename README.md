@@ -48,6 +48,5 @@
 [website]: https://b-husein.github.io/portfolio/
 [youtube]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/pragmaticxyz/
-[webdevplaylist]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
 [jsplaylist]: https://www.youtube.com/watch?v=xd6M1hMryiA&list=PL_RU_7f8ZS8NAvpkEHfSsP6PPlbR8Gd2e
 [cssplaylist]: https://www.youtube.com/watch?v=ZFDZDyeGmgI&list=PL_RU_7f8ZS8MZ8TIVDwWOFKLQU9wKjedu
