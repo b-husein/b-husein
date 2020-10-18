@@ -39,7 +39,7 @@
 
 <!-- BOOK-LIST:START -->
 
-- [Marijin Haverbeke, "ELOQUENT JAVASCRIPT - A Modern Introduction to Programming", 3rd edition](https://eloquentjavascript.net/)
+- [How to Perform a Phishing (whaling) attack via Emkei’s Fake Mailer](https://zsecurity.org/how-to-perform-a-phishing-whaling-attack-via-emkeis-fake-mailer/)
 
 <!-- BOOK-LIST:END -->
 
