@@ -18,7 +18,6 @@
 [<img align="left" alt="Husein | Facebook" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Husein | YouTube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][facebook]
 
-<br>
 ---
 
 ### Languages and Tools:
