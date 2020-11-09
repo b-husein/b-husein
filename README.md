@@ -1,6 +1,6 @@
 ### Hi there, I'm Husein <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## I create simple websites that are fast, easy to use, and built with best practices.
+## I create simple websites that are responsive, user-friendly, and built with best practices.
 
 - 🔭 I turn complex problems to simple solutions.
 - 🌱 I’m passionate about Open Source and I enjoy listening listening original soundtracks.
