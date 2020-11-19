@@ -2,12 +2,6 @@
 
 ## I create simple websites that are responsive, user-friendly, and built with best practices.
 
-- 🔭 I turn complex problems to simple solutions.
-- 🌱 I’m passionate about Open Source and I enjoy listening listening original soundtracks.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goal: Contribute more to Open Source projects.
-- ⚡ Fun fact: The phrase 'bug' was inspired by a real bug. It was founded by Grace Hopper in 1947.
-
 ### Connect with me: 
 
 [<img align="left" alt="Husein" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
