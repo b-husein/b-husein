@@ -7,7 +7,6 @@
 ### 📬 Connect with me [@Linkedin] or say <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> via [email].
 
 <br>
-<br>
 
 ---
 
@@ -31,8 +30,6 @@
 - ["ELOQUENT JAVASCRIPT", 3rd edition by Marijn Haverbeke](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 
 <!-- BOOK-LIST:END -->
-
---- 
 
 [here]: https://b-husein.github.io/simplefolio/
 [@Linkedin]: https://www.linkedin.com/in/b-husein/
