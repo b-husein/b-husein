@@ -1,15 +1,10 @@
-### Hi there, I'm Husein <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### 😄 Hi there, I'm Husein.
 
 ### ⚡️ I code simple websites that are responsive, user-friendly, and built with best practices.
 
-### 🌍 You can check my portfolio [here](https://b-husein.github.io/simplefolio/);
+### 🌍 You can check my portfolio [here];
 
-### 📬 or connect with me: 
-
-<br> [<img align="left" alt="Husein" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][here]
-<br> [<img align="left" alt="Husein | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br> [<img align="left" alt="Husein | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-<br> [<img align="left" alt="Husein | YouTube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][facebook]
+### 📬 Connect with me [@Linkedin] or say <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> via [email].
 
 <br>
 <br>
@@ -40,9 +35,9 @@
 --- 
 
 [here]: https://b-husein.github.io/simplefolio/
-[linkedin]: https://www.linkedin.com/in/b-husein/
+[@Linkedin]: https://www.linkedin.com/in/b-husein/
 [stackoverflow]: https://stackoverflow.com/users/13941746/husein-b
-[gmail]: mailto:bajrektarevic.husein@gmail.com
+[email]: mailto:bajrektarevic.husein@gmail.com
 [skype]: bajrektarevic.husein
 [facebook]: https://www.facebook.com/pragmaticxyz/
 [youtube]: https://www.youtube.com/channel/UCHZwWQR2hLBB0sTUmKT3esw/playlists?view_as=subscriber
