@@ -6,8 +6,6 @@
 
 ### 📬 Connect with me [@Linkedin] or say <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> via [email].
 
-<br>
-
 ---
 
 ## 📺 also, feel free to visit my YouTube channel:
