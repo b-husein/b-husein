@@ -1,12 +1,12 @@
-## Hi there, I'm Husein <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Husein <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-## ⚡️ I create simple websites that are responsive, user-friendly, and built with best practices.
+### ⚡️ I code simple websites that are responsive, user-friendly, and built with best practices.
 
-## 🌍 You can check my portfolio [here](https://b-husein.github.io/simplefolio/);
+### 🌍 You can check my portfolio [here](https://b-husein.github.io/simplefolio/);
 
-## 📬 or connect with me: 
+### 📬 or connect with me: 
 
-[<img align="left" alt="Husein" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Husein" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][here]
 [<img align="left" alt="Husein | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Husein | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Husein | YouTube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][facebook]
