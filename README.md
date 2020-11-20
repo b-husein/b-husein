@@ -4,7 +4,7 @@
 
 ## 🌍 You can check my portfolio [here](https://b-husein.github.io/simplefolio/);
 
-## or connect with me: 
+## 📬 or connect with me: 
 
 [<img align="left" alt="Husein" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Husein | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -39,7 +39,7 @@
 
 --- 
 
-[website]: https://b-husein.github.io/simplefolio/
+[here]: https://b-husein.github.io/simplefolio/
 [linkedin]: https://www.linkedin.com/in/b-husein/
 [stackoverflow]: https://stackoverflow.com/users/13941746/husein-b
 [gmail]: mailto:bajrektarevic.husein@gmail.com
