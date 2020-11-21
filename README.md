@@ -1,10 +1,8 @@
-### 😄 Hi there, I'm Husein.
+### 😄 Hello 🌍; I'm Husein. <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-### ⚡️ I code simple websites that are responsive, user-friendly, and built with best practices.
+### ⚡️ I code simple websites that are responsive, user-friendly, and built with best practices. You can check my portfolio [here];
 
-### 🌍 You can check my portfolio [here];
-
-### 📬 Connect with me [@Linkedin] or say <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> via [email]. If you want to see me code, you can visit my 📺 [YouTube channel] I started recently.
+### 📬 Also, connect with me [@Linkedin] or say hi via [email]. If you want to see me code, you can visit my 📺 [YouTube channel] I started recently.
 
 ---
 
