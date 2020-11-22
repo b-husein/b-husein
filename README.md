@@ -1,6 +1,6 @@
 ### Hello 🌍; I'm Husein. 😄 
 
-### I code simple websites that are responsive, user-friendly and built with best practices. You can check my portfolio [here]; Also, connect with me [@Linkedin] or say 'hi' via [email] 📬. If you want to see me code, you can visit my [YouTube channel] 📺  I started recently.
+### I code simple websites that are responsive, user-friendly and built with best practices. You can check my portfolio [here]; Also, connect with me [@Linkedin] or say 'hi' via [email] 📬. If you want to see me code, you can visit my [YouTube channel] 📺. 
 
 ---
 
