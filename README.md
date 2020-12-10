@@ -1,4 +1,4 @@
-###<p align="center">Hello 🌍; I'm Husein. 😄</p>
+<p align="center">Hello 🌍; I'm Husein. 😄</p>
 
 <p align="center">
 	<a href="https://b-husein.github.io/simplefolio/"><img src="https://img.shields.io/badge/portfolio-view%20portfolio-green" alt="Portfolio"></a>
