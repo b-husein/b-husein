@@ -5,4 +5,4 @@
 
 ### Find me on:
 
-- 📰 [my-blog](https://b-husein.github.io/blog/)
+- 📰 [bytebridger.com](https://bytebridger.com/))
