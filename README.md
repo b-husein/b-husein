@@ -5,4 +5,4 @@
 
 ### Find me on:
 
-- 📰 [bytebridger.com](https://bytebridger.com/))
+- 📰 [bytebridger.com](https://bytebridger.com/)
