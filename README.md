@@ -23,21 +23,24 @@ country = 'Bosnia and Herzegovina'
   ]
   configuration_management = "Ansible"
 
-# This repo contains my completed tasks and projects with notes from the mentorship program organized by AWS Community Bosnia.
+# This repo contains my completed tasks and projects with notes 
+# from the mentorship program organized by AWS Community Bosnia.
 
 [devops-mentorship]
   list = [
     'https://github.com/b-husein/husein-bajrektarevic-devops-mentorship'
   ]
 
-# In my free time, I like to contribute to community by writing blog posts mostly about how-to's and best practices 
+# In my free time, I like to contribute to community by writing
+# blog posts mostly about how-to's and best practices 
 
 [writing-at]
   medium = 'https://medium.com/@b-husein'
   dev = 'https://dev.to/bhusein'
   my-blog = 'https://bytebridger.com/'
 
-# I'm always interested in meeting new people so feel free to contact me via:
+# I'm always interested in meeting new people 
+# so feel free to contact me via:
 
 [networks]
   linkedin = 'https://www.linkedin.com/in/bytebridger/'
