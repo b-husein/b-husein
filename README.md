@@ -1,7 +1,5 @@
 ```toml
- $ cat husein-info.toml
-
-name = 'Husein Bajrektarevic'
+ name = 'Husein Bajrektarevic'
 country = 'Bosnia and Herzegovina'
 
 [interests]
