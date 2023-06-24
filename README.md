@@ -1,6 +1,6 @@
 ```toml
 # $ cat about.toml
-==================================
+
 name = 'Husein Bajrektarevic'
 country = 'Bosnia and Herzegovina'
 
