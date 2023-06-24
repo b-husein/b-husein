@@ -1,4 +1,6 @@
 ```toml
+# $ cat about.toml
+==================================
 name = 'Husein Bajrektarevic'
 country = 'Bosnia and Herzegovina'
 
@@ -21,7 +23,8 @@ country = 'Bosnia and Herzegovina'
     'Terraform',
     'CloudFormation'
   ]
-  configuration_management = "Ansible"
+
+configuration_management = "Ansible"
 
 # This repo contains my completed tasks and projects with notes 
 # from the mentorship program organized by AWS Community Bosnia.
