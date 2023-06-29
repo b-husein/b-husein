@@ -25,6 +25,8 @@ country = 'Bosnia and Herzegovina'
   ]
 
 configuration_management = "Ansible"
+containerization_with = "Docker"
+automation_with = "Jenkins"
 
 # This repo contains my completed tasks and projects with notes 
 # from the mentorship program organized by AWS Community Bosnia.
